@@ -1,0 +1,2 @@
+ALTER TABLE usuario ADD CONSTRAINT fk_funcionario_usuario
+FOREIGN KEY(codigo_funcionario) REFERENCES funcionario(codigo_funcionario)

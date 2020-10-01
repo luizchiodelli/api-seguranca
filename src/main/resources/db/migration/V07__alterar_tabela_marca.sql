@@ -1,0 +1,1 @@
+ALTER TABLE marca DROP COLUMN codigo_fornecedor

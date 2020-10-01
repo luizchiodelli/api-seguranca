@@ -1,0 +1,1 @@
+ALTER TABLE usuario ADD codigo_funcionario BIGINT(20)
