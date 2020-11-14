@@ -59,3 +59,6 @@ $ git clone https://github.com/luizchiodelli/api-seguranca.git
 ### Rodar
 
 Com todas aplicações devidamente instaladas na sua máquina e com o projeto clonado, selecione o seguinte comando no Eclipse:
+
+
+## Tecnologias
